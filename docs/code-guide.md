@@ -43,8 +43,8 @@ The backend requires MySQL/MongoDB; the assistant requires retrieval assets and 
 
 | Project | Read about |
 | --- | --- |
-| [Retention Copilot](../case-studies/retention-copilot.md) | Model selection, a second fold assignment, explanations and staff approval |
+| [Retention Copilot](../case-studies/retention-copilot.md) · [code](https://github.com/Junhan1029/bank-retention-copilot) | Model selection, a second fold assignment, explanations and staff approval |
 | [SPOTV](../case-studies/spotv.md) | Pre-game leakage controls, holdout evaluation and content delivery |
-| [IBK](../case-studies/ibk.md) | Public-filings reconciliation and a comparison dashboard |
+| [IBK](../case-studies/ibk.md) · [code](https://github.com/Junhan1029/ibk-financial-group-analysis) | Public-filings reconciliation and a comparison dashboard |
 
-These pages currently describe the projects and my contributions. **Hackathon and IBK code can be released publicly**, but public source packages have not yet been posted. **SPOTV code cannot be shared publicly.** Dataset redistribution and disclosure of credentials or internship documents are outside the code-release scope.
+The hackathon and IBK repositories contain code, tests and documentation only. Datasets, credentials and internship documents are not published, so a clean clone needs the source data described in each README. **SPOTV code cannot be shared publicly.**

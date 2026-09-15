@@ -18,6 +18,6 @@ A financial-data pipeline and strategy dashboard built around public-source evid
 
 This is an internship project summary, not a statement of IBK policy or evidence of commercial adoption. Public financial disclosures do not reproduce the bank's internal management-accounting measures.
 
-The project code can be released publicly. The original repository is currently private, and a public source package has not yet been posted. Code release is separate from publishing credentials, collected data or internship documents.
+Code: [ibk-financial-group-analysis](https://github.com/Junhan1029/ibk-financial-group-analysis). The public repository contains the filings parser, validation tests, documentation and dashboard source with the full commit history. Source filings, data files and the internship strategy deck are excluded.
 
 [Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)

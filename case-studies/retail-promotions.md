@@ -10,7 +10,7 @@ Higher sales during a promotion can reflect additional demand, discounts on purc
 
 ## My contribution
 
-I led the project and owned the upstream incrementality analysis. I defined treatment using flyer exposure rather than the discount realized on a purchase, constructed household-category purchase opportunities including zero-purchase observations, and estimated effects with household-category fixed effects.
+I led the project and owned the upstream incrementality analysis. As lead, I reconciled the three analyses' treatment definitions into one shared standard and reviewed downstream outputs, returning one estimate for recalculation under the agreed household-category fixed-effects specification. I defined treatment using flyer exposure rather than the discount realized on a purchase, constructed household-category purchase opportunities including zero-purchase observations, and estimated effects with household-category fixed effects.
 
 I examined follow-on purchases and cross-category effects to move from an average sales lift to category-level allocation rules. Team members conducted complementary customer and category analyses; those analyses remain credited in the original repository.
 
