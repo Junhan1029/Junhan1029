@@ -21,7 +21,7 @@ I work on problems where a prediction alone is not enough: deciding how to respo
 
 Connected churn predictions to explanations, proposed retention actions and staff approval. As the three-person team's representative, I led modeling, validation, SHAP analysis and Copilot design. The selected LightGBM model achieved **0.73673 public leaderboard average precision**.
 
-`LightGBM` `SHAP` `Probability calibration` · **[Case study →](case-studies/retention-copilot.md)**
+`LightGBM` `SHAP` `Probability calibration` · **[Case study →](case-studies/retention-copilot.md)** · **[Code](https://github.com/Junhan1029/bank-retention-copilot)**
 
 ### SPOTV: Pre-game KBO Win Prediction
 
@@ -45,9 +45,9 @@ Investigated whether promotions generate additional demand or shift existing pur
 
 Built a public-filings pipeline, validation framework and dashboard to compare **KB, Shinhan, Hana, Woori and IBK across 2019–2025**. The analysis supported the team's exploration of non-bank earnings and growth opportunities.
 
-`Financial analysis` `Data validation` `Dashboard` · **[Case study →](case-studies/ibk.md)**
+`Financial analysis` `Data validation` `Dashboard` · **[Case study →](case-studies/ibk.md)** · **[Code](https://github.com/Junhan1029/ibk-financial-group-analysis)**
 
-Each case study includes my role, evaluation context and project limitations. Retail code is public. Hackathon and IBK code can be released, but public source packages are not yet posted. SPOTV source code cannot be shared publicly.
+Each case study includes my role, evaluation context and project limitations. Retail, hackathon and IBK code is public; datasets, credentials and internship documents are excluded from those repositories. SPOTV source code cannot be shared publicly.
 
 ## More projects
 

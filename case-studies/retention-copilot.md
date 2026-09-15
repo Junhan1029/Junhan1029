@@ -23,6 +23,6 @@ The team won first place. The selected model achieved public leaderboard average
 
 This was a hackathon prototype using synthetic bank-churn data, not a system deployed at a bank. Changing a feature and re-running a model is a scenario prediction, not evidence that the intervention causes that change. Retention economics depend on explicit assumptions about success rates and contact costs.
 
-The project code can be released publicly; a public source package has not yet been posted. Competition data cannot be redistributed. A code release must exclude the original dataset and customer-level artifacts.
+Code: [bank-retention-copilot](https://github.com/Junhan1029/bank-retention-copilot). The public repository contains the pipeline, acceptance tests, Copilot service and reports. The competition dataset, customer-level predictions and the dashboard file with embedded customer rows are excluded because competition data cannot be redistributed.
 
 [Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)
