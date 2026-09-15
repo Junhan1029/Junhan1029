@@ -25,4 +25,4 @@ This was a hackathon prototype using synthetic bank-churn data, not a system dep
 
 Competition data cannot be redistributed. This page provides a project summary; it does not distribute the original dataset or customer-level artifacts.
 
-[Back to profile](../README.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)

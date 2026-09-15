@@ -25,4 +25,4 @@ Only pre-game information was used. The holdout covered one month, and its confi
 
 The collaboration repository is not currently accessible to logged-out visitors. This summary does not redistribute source event logs or change the team's repository visibility.
 
-[Back to profile](../README.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)
