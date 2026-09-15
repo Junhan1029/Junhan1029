@@ -20,4 +20,4 @@ This is an internship project summary, not a statement of IBK policy or evidence
 
 The original repository is not currently accessible to logged-out visitors. This page does not publish internship documents or change the repository's visibility.
 
-[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md) · [Explore the code](../docs/code-guide.md)

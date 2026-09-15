@@ -7,6 +7,12 @@ I work on problems where a prediction alone is not enough: deciding how to respo
 
 [Selected projects](#selected-projects) · [Explore my code](docs/code-guide.md) · [Skills](#skills)
 
+### Start here
+
+- **See how I turn a model into a workflow:** [Retention Copilot case study](case-studies/retention-copilot.md).
+- **Inspect my statistical analysis:** [Retail analysis code and results](docs/code-guide.md#retail-promotion-analysis--my-implementation).
+- **See an application:** [Book assistant screenshot and team project](https://github.com/Junhan1029/YBIGTA_newbie_team_project#see-the-result).
+
 ## Selected projects
 
 ### Bank Customer Retention & Advisor Copilot
