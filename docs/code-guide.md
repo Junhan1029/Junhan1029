@@ -37,7 +37,7 @@ Historical team demonstration. See the project README for current configuration.
 
 </details>
 
-The backend requires MySQL/MongoDB; the assistant requires retrieval assets and Upstage configuration. The deployment workflow builds and deploys a container but has no test gate. A clean installation and full test run remain unverified in this portfolio review.
+The backend requires MySQL/MongoDB; the assistant requires retrieval assets and Upstage configuration. The EC2 instance has been terminated and its deployment workflow is disabled. The retained workflow has no test gate. A clean installation and full test run remain unverified in this portfolio review.
 
 ## Project summaries
 
