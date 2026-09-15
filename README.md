@@ -27,7 +27,7 @@ Connected churn predictions to explanations, proposed retention actions and staf
 
 **SPOTV × YBIGTA · Industry collaboration · May–August 2026**
 
-Helped turn pre-game statistics into forecasts and explanations for sports content. I worked on batter features and modeling, diagnosed leakage in pitcher inputs, and proposed content formats following company feedback. The team's final model achieved **0.670 ROC-AUC on the June holdout**.
+**Identified and corrected time leakage in pitcher inputs**, accepting a drop in ROC-AUC from 0.7153 to 0.6103 in the leakage check. I worked on batter features, modeling and explanations, and proposed content formats following company feedback. The case study separates this diagnostic comparison from the final model's holdout evaluation.
 
 `Random forest` `SHAP` `Time-based validation` · **[Case study →](case-studies/spotv.md)**
 
@@ -43,11 +43,11 @@ Investigated whether promotions generate additional demand or shift existing pur
 
 **Industrial Bank of Korea internship · July–August 2026**
 
-Built a public-filings pipeline, validation framework and dashboard to compare **five financial groups across 2019–2025**. The analysis supported the team's exploration of non-bank earnings and growth opportunities.
+Built a public-filings pipeline, validation framework and dashboard to compare **KB, Shinhan, Hana, Woori and IBK across 2019–2025**. The analysis supported the team's exploration of non-bank earnings and growth opportunities.
 
 `Financial analysis` `Data validation` `Dashboard` · **[Case study →](case-studies/ibk.md)**
 
-Each case study includes my role, evaluation context and project limitations. Private projects are presented as summaries.
+Each case study includes my role, evaluation context and project limitations. Retail code is public. Hackathon and IBK code can be released, but public source packages are not yet posted. SPOTV source code cannot be shared publicly.
 
 ## More projects
 

@@ -24,4 +24,4 @@ The data are observational. Fixed effects do not remove every source of selectio
 
 Use the original repository for code and contributor history. Obtain data from its original provider under the applicable terms rather than assuming this profile redistributes it.
 
-[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md) · [Explore the code](../docs/code-guide.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)

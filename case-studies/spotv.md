@@ -9,7 +9,7 @@ Estimate the home team's chance of winning a KBO game using information availabl
 ## My contribution
 
 - Worked on batter features, model development and SHAP explanations.
-- Identified outcome information leaking into pitcher variables and revised the modeling inputs.
+- Identified outcome information leaking into pitcher variables and revised the modeling inputs. In the leakage diagnostic, ROC-AUC dropped from 0.7153 to 0.6103 after replacing the static snapshot with point-in-time inputs. I accepted the lower score to evaluate information actually available before a game.
 - Contributed to feature selection and the packaging of intermediate and final modeling outputs.
 - Proposed three content formats in response to company feedback.
 
@@ -23,6 +23,6 @@ The card-rendering and commentary components are team outputs; this page does no
 
 Only pre-game information was used. The holdout covered one month, and its confidence interval was wide. Live broadcast integration and load testing were outside the delivered scope. SHAP explanations describe model behavior, not causal effects.
 
-The collaboration repository is not currently accessible to logged-out visitors. This summary does not redistribute source event logs or change the team's repository visibility.
+The collaboration's source code cannot be shared publicly. This page provides a contribution summary and does not redistribute source event logs.
 
-[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md) · [Explore the code](../docs/code-guide.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)

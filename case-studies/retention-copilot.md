@@ -11,7 +11,7 @@ A churn score does not tell a bank employee what to discuss with a customer. Thi
 As representative of a three-person team, I led model comparison and tuning, validation design, SHAP explanations, probability calibration, retention-strategy calculations, Copilot design and presentation.
 
 - Compared six models and selected a tuned LightGBM model using predefined validation criteria.
-- Kept a separate audit split to check the selected candidate. Rejected a blend whose small apparent gain did not satisfy the statistical acceptance rule.
+- Checked the selected candidate with a second stratified fold assignment using a different seed on the same training rows. This is a robustness check, not an independent held-out dataset. Rejected a blend whose small apparent gain did not satisfy the statistical acceptance rule.
 - Used customer-level SHAP explanations and what-if predictions to connect risk estimates to proposed actions.
 - Separated policy-based action selection from language generation, with staff approval and an audit record for the proposed customer-facing response.
 
@@ -23,6 +23,6 @@ The team won first place. The selected model achieved public leaderboard average
 
 This was a hackathon prototype using synthetic bank-churn data, not a system deployed at a bank. Changing a feature and re-running a model is a scenario prediction, not evidence that the intervention causes that change. Retention economics depend on explicit assumptions about success rates and contact costs.
 
-Competition data cannot be redistributed. This page provides a project summary; it does not distribute the original dataset or customer-level artifacts.
+The project code can be released publicly; a public source package has not yet been posted. Competition data cannot be redistributed. A code release must exclude the original dataset and customer-level artifacts.
 
-[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md) · [Explore the code](../docs/code-guide.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)

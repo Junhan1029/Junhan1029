@@ -18,6 +18,6 @@ A financial-data pipeline and strategy dashboard built around public-source evid
 
 This is an internship project summary, not a statement of IBK policy or evidence of commercial adoption. Public financial disclosures do not reproduce the bank's internal management-accounting measures.
 
-The original repository is not currently accessible to logged-out visitors. This page does not publish internship documents or change the repository's visibility.
+The project code can be released publicly. The original repository is currently private, and a public source package has not yet been posted. Code release is separate from publishing credentials, collected data or internship documents.
 
-[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md) · [Explore the code](../docs/code-guide.md)
+[Back to profile](../README.md) · [Explore the code](../docs/code-guide.md)
